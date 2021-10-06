@@ -1,7 +1,7 @@
 {
   "name": "Alex-Userbot",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "description": "The ⫷༒₳Đ₳ⱤŞⱧ༒⫸ made by  special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
+  "logo": " https://telegra.ph/file/5a2e8c2e89b79bec1ed2c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -34,7 +34,7 @@
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "Alex-userbot Is Alive",
       "required": false
     },
     "ALIVE_PIC": {
