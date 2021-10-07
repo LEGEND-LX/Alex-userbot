@@ -1,7 +1,10 @@
 {
   "name": "Alex-Userbot",
-  "description": "The ⫷༒₳Đ₳ⱤŞⱧ༒⫸ made by  special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": " https://telegra.ph/file/5a2e8c2e89b79bec1ed2c.jpg",
+  "description": "The ⫷༒₳Đ₳ⱤŞⱧ༒⫸ made the alex userbot and special thanks to python userbot and Dhrubamoy special thanks   Join for updates related info @ALEX_USERBOT
+  "logo": " https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
+
+
+  ,
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +12,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository":https://github.com/LEGEND-LX/Alex-userbot,
+  "website": https://github.com/LEGEND-LX/Alex-userbot
+  "success_url": "https://t.me/ALEX_USERBOTS,
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,12 +26,12 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @ALEX_USERBOT. By default it is ALEX USERBOT",
+      "value": "@ALEX_USERBOTS
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in MafiaBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in ALEX . USERBOT Fill ON.",
       "value": "",
       "required": false
     },    
@@ -39,13 +42,13 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/bf4f026de24c344a9a79d.jpg
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
-      "required": false
+      "value": "😈I AM ALIVE TO STOP THE LEGACY OF DEMONS,
+      "required .false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
@@ -54,7 +57,7 @@
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
+      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!", OTHERWISE IF YOU TRIED TO SPAN I WILL BLOCK YOU AND FUCK YOUR MOM
       "required": false
     },
     "APP_ID": {
@@ -80,7 +83,7 @@
       "value": "-1001174481876"
     },
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "description": "Get this value by running STRING SESSION GENERATOR BOT ",
       "value": ""
     },
     "HEROKU_API_KEY": {
